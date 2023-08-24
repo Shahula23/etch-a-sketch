@@ -57,7 +57,7 @@ function createGrid(answer) {
         })
     }
 }
-//
+
 function newGrid() {
     let answer = prompt("Please select a new grid size between 1 and 100: ");
     if (answer === null) {
